@@ -111,13 +111,12 @@ Building these with a combination of MySQL aggregation and Excel formulas (rathe
 
 ## 🖼 Dashboard Preview
 
-> *Add your Excel dashboard screenshots or a GIF walkthrough here so recruiters can see the dashboard at a glance.*
+![Dashboard](https://github.com/Analystfaizan/Excell_Super_Store_Analysis/blob/92b8fbeff1a97971c5aa13b92122a13f58e33f8c/Screenshots/Screenshot%202026-06-29%20112419.png)
+
 
 ```
 /screenshots
-  ├── revenue_overview.png
-  ├── profit_margin_trends.png
-  └── payment_mode_analysis.png
+  ├── Screenshot.png
 ```
 
 ---
@@ -148,11 +147,11 @@ Building these with a combination of MySQL aggregation and Excel formulas (rathe
 ```
 b2c-sales-dashboard-superstore/
 │
-├── sql/                              # MySQL queries used for data extraction
-├── B2C_Sales_Dashboard.xlsx          # Excel dashboard file
-├── data/                             # Source/cleaned dataset (if shareable)
-├── screenshots/                      # Dashboard preview images
-└── README.md                         # Project documentation
+├── Dashboards/                              # Report and Dashboards 
+├── Row_Data                                 # Source data and Excell file and CSV Row Data file
+├── SQL Queries/                             # All 5 SQL Queries OR Insightes 
+├── screenshots/                             # Dashboard preview images
+└── README.md                                # Project documentation
 ```
 
 *(Update this structure to match your actual repo layout.)*
