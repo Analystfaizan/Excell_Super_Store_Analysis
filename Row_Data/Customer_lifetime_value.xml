@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Customer_id</Data></Cell>
+			<Cell><Data ss:Type="String">Customer_name</Data></Cell>
+			<Cell><Data ss:Type="String">Orders</Data></Cell>
+			<Cell><Data ss:Type="String">Lifetimevalue</Data></Cell>
+			<Cell><Data ss:Type="String">First_Order</Data></Cell>
+			<Cell><Data ss:Type="String">Last_order</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">AB10105</Data></Cell>
+			<Cell><Data ss:Type="String">AdrianBarton</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+			<Cell><Data ss:Type="Number">12004</Data></Cell>
+			<Cell><Data ss:Type="String">2014-12-20</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HL15040</Data></Cell>
+			<Cell><Data ss:Type="String">HunterLopez</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+			<Cell><Data ss:Type="Number">11715</Data></Cell>
+			<Cell><Data ss:Type="String">2014-01-20</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TA21385</Data></Cell>
+			<Cell><Data ss:Type="String">TomAshbrook</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+			<Cell><Data ss:Type="Number">11649</Data></Cell>
+			<Cell><Data ss:Type="String">2014-12-09</Data></Cell>
+			<Cell><Data ss:Type="String">2017-10-22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SE20110</Data></Cell>
+			<Cell><Data ss:Type="String">SanjitEngle</Data></Cell>
+			<Cell><Data ss:Type="String">11</Data></Cell>
+			<Cell><Data ss:Type="Number">10639</Data></Cell>
+			<Cell><Data ss:Type="String">2014-09-22</Data></Cell>
+			<Cell><Data ss:Type="String">2017-12-21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BS11365</Data></Cell>
+			<Cell><Data ss:Type="String">BillShonely</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10351</Data></Cell>
+			<Cell><Data ss:Type="String">2014-04-05</Data></Cell>
+			<Cell><Data ss:Type="String">2016-06-20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CC12370</Data></Cell>
+			<Cell><Data ss:Type="String">ChristopherConant</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+			<Cell><Data ss:Type="Number">8953</Data></Cell>
+			<Cell><Data ss:Type="String">2016-05-23</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GT14635</Data></Cell>
+			<Cell><Data ss:Type="String">GrantThornton</Data></Cell>
+			<Cell><Data ss:Type="String">3</Data></Cell>
+			<Cell><Data ss:Type="Number">8175</Data></Cell>
+			<Cell><Data ss:Type="String">2014-06-06</Data></Cell>
+			<Cell><Data ss:Type="String">2017-04-11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TB21400</Data></Cell>
+			<Cell><Data ss:Type="String">TomBoeckenhauer</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+			<Cell><Data ss:Type="Number">7292</Data></Cell>
+			<Cell><Data ss:Type="String">2014-01-21</Data></Cell>
+			<Cell><Data ss:Type="String">2017-11-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JH15985</Data></Cell>
+			<Cell><Data ss:Type="String">JosephHolt</Data></Cell>
+			<Cell><Data ss:Type="String">6</Data></Cell>
+			<Cell><Data ss:Type="Number">6696</Data></Cell>
+			<Cell><Data ss:Type="String">2014-09-08</Data></Cell>
+			<Cell><Data ss:Type="String">2017-01-12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LC16885</Data></Cell>
+			<Cell><Data ss:Type="String">LenaCreighton</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+			<Cell><Data ss:Type="Number">6342</Data></Cell>
+			<Cell><Data ss:Type="String">2014-04-25</Data></Cell>
+			<Cell><Data ss:Type="String">2017-12-14</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

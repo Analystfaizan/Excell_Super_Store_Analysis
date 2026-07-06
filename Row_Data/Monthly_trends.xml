@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Months</Data></Cell>
+			<Cell><Data ss:Type="String">Monthly_revenue</Data></Cell>
+			<Cell><Data ss:Type="String">Prev_Month</Data></Cell>
+			<Cell><Data ss:Type="String">pct_growth</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">2014-01-1</Data></Cell>
+			<Cell><Data ss:Type="Number">14287</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-02-1</Data></Cell>
+			<Cell><Data ss:Type="Number">6556</Data></Cell>
+			<Cell><Data ss:Type="Number">14287</Data></Cell>
+			<Cell><Data ss:Type="Number">-54.11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-03-1</Data></Cell>
+			<Cell><Data ss:Type="Number">19539</Data></Cell>
+			<Cell><Data ss:Type="Number">6556</Data></Cell>
+			<Cell><Data ss:Type="Number">198.03</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-04-1</Data></Cell>
+			<Cell><Data ss:Type="Number">10434</Data></Cell>
+			<Cell><Data ss:Type="Number">19539</Data></Cell>
+			<Cell><Data ss:Type="Number">-46.60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-05-1</Data></Cell>
+			<Cell><Data ss:Type="Number">15326</Data></Cell>
+			<Cell><Data ss:Type="Number">10434</Data></Cell>
+			<Cell><Data ss:Type="Number">46.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-06-1</Data></Cell>
+			<Cell><Data ss:Type="Number">14734</Data></Cell>
+			<Cell><Data ss:Type="Number">15326</Data></Cell>
+			<Cell><Data ss:Type="Number">-3.86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-07-1</Data></Cell>
+			<Cell><Data ss:Type="Number">12681</Data></Cell>
+			<Cell><Data ss:Type="Number">14734</Data></Cell>
+			<Cell><Data ss:Type="Number">-13.93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-08-1</Data></Cell>
+			<Cell><Data ss:Type="Number">13084</Data></Cell>
+			<Cell><Data ss:Type="Number">12681</Data></Cell>
+			<Cell><Data ss:Type="Number">3.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-09-1</Data></Cell>
+			<Cell><Data ss:Type="Number">22598</Data></Cell>
+			<Cell><Data ss:Type="Number">13084</Data></Cell>
+			<Cell><Data ss:Type="Number">72.71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-10-1</Data></Cell>
+			<Cell><Data ss:Type="Number">13460</Data></Cell>
+			<Cell><Data ss:Type="Number">22598</Data></Cell>
+			<Cell><Data ss:Type="Number">-40.44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-11-1</Data></Cell>
+			<Cell><Data ss:Type="Number">29896</Data></Cell>
+			<Cell><Data ss:Type="Number">13460</Data></Cell>
+			<Cell><Data ss:Type="Number">122.11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014-12-1</Data></Cell>
+			<Cell><Data ss:Type="Number">35190</Data></Cell>
+			<Cell><Data ss:Type="Number">29896</Data></Cell>
+			<Cell><Data ss:Type="Number">17.71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-01-1</Data></Cell>
+			<Cell><Data ss:Type="Number">15822</Data></Cell>
+			<Cell><Data ss:Type="Number">35190</Data></Cell>
+			<Cell><Data ss:Type="Number">-55.04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-02-1</Data></Cell>
+			<Cell><Data ss:Type="Number">11290</Data></Cell>
+			<Cell><Data ss:Type="Number">15822</Data></Cell>
+			<Cell><Data ss:Type="Number">-28.64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-03-1</Data></Cell>
+			<Cell><Data ss:Type="Number">19595</Data></Cell>
+			<Cell><Data ss:Type="Number">11290</Data></Cell>
+			<Cell><Data ss:Type="Number">73.56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-04-1</Data></Cell>
+			<Cell><Data ss:Type="Number">14623</Data></Cell>
+			<Cell><Data ss:Type="Number">19595</Data></Cell>
+			<Cell><Data ss:Type="Number">-25.37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-05-1</Data></Cell>
+			<Cell><Data ss:Type="Number">17259</Data></Cell>
+			<Cell><Data ss:Type="Number">14623</Data></Cell>
+			<Cell><Data ss:Type="Number">18.03</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-06-1</Data></Cell>
+			<Cell><Data ss:Type="Number">14303</Data></Cell>
+			<Cell><Data ss:Type="Number">17259</Data></Cell>
+			<Cell><Data ss:Type="Number">-17.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-07-1</Data></Cell>
+			<Cell><Data ss:Type="Number">12554</Data></Cell>
+			<Cell><Data ss:Type="Number">14303</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-08-1</Data></Cell>
+			<Cell><Data ss:Type="Number">23161</Data></Cell>
+			<Cell><Data ss:Type="Number">12554</Data></Cell>
+			<Cell><Data ss:Type="Number">84.49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-09-1</Data></Cell>
+			<Cell><Data ss:Type="Number">31101</Data></Cell>
+			<Cell><Data ss:Type="Number">23161</Data></Cell>
+			<Cell><Data ss:Type="Number">34.28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-10-1</Data></Cell>
+			<Cell><Data ss:Type="Number">14665</Data></Cell>
+			<Cell><Data ss:Type="Number">31101</Data></Cell>
+			<Cell><Data ss:Type="Number">-52.85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-11-1</Data></Cell>
+			<Cell><Data ss:Type="Number">23859</Data></Cell>
+			<Cell><Data ss:Type="Number">14665</Data></Cell>
+			<Cell><Data ss:Type="Number">62.69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2015-12-1</Data></Cell>
+			<Cell><Data ss:Type="Number">22727</Data></Cell>
+			<Cell><Data ss:Type="Number">23859</Data></Cell>
+			<Cell><Data ss:Type="Number">-4.74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-01-1</Data></Cell>
+			<Cell><Data ss:Type="Number">16118</Data></Cell>
+			<Cell><Data ss:Type="Number">22727</Data></Cell>
+			<Cell><Data ss:Type="Number">-29.08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-02-1</Data></Cell>
+			<Cell><Data ss:Type="Number">21042</Data></Cell>
+			<Cell><Data ss:Type="Number">16118</Data></Cell>
+			<Cell><Data ss:Type="Number">30.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-03-1</Data></Cell>
+			<Cell><Data ss:Type="Number">25445</Data></Cell>
+			<Cell><Data ss:Type="Number">21042</Data></Cell>
+			<Cell><Data ss:Type="Number">20.92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-04-1</Data></Cell>
+			<Cell><Data ss:Type="Number">24334</Data></Cell>
+			<Cell><Data ss:Type="Number">25445</Data></Cell>
+			<Cell><Data ss:Type="Number">-4.37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-05-1</Data></Cell>
+			<Cell><Data ss:Type="Number">38400</Data></Cell>
+			<Cell><Data ss:Type="Number">24334</Data></Cell>
+			<Cell><Data ss:Type="Number">57.80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-06-1</Data></Cell>
+			<Cell><Data ss:Type="Number">24273</Data></Cell>
+			<Cell><Data ss:Type="Number">38400</Data></Cell>
+			<Cell><Data ss:Type="Number">-36.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-07-1</Data></Cell>
+			<Cell><Data ss:Type="Number">16434</Data></Cell>
+			<Cell><Data ss:Type="Number">24273</Data></Cell>
+			<Cell><Data ss:Type="Number">-32.30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-08-1</Data></Cell>
+			<Cell><Data ss:Type="Number">22386</Data></Cell>
+			<Cell><Data ss:Type="Number">16434</Data></Cell>
+			<Cell><Data ss:Type="Number">36.22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-09-1</Data></Cell>
+			<Cell><Data ss:Type="Number">25445</Data></Cell>
+			<Cell><Data ss:Type="Number">22386</Data></Cell>
+			<Cell><Data ss:Type="Number">13.66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-10-1</Data></Cell>
+			<Cell><Data ss:Type="Number">22409</Data></Cell>
+			<Cell><Data ss:Type="Number">25445</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-11-1</Data></Cell>
+			<Cell><Data ss:Type="Number">32874</Data></Cell>
+			<Cell><Data ss:Type="Number">22409</Data></Cell>
+			<Cell><Data ss:Type="Number">46.70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016-12-1</Data></Cell>
+			<Cell><Data ss:Type="Number">46855</Data></Cell>
+			<Cell><Data ss:Type="Number">32874</Data></Cell>
+			<Cell><Data ss:Type="Number">42.53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-01-1</Data></Cell>
+			<Cell><Data ss:Type="Number">25230</Data></Cell>
+			<Cell><Data ss:Type="Number">46855</Data></Cell>
+			<Cell><Data ss:Type="Number">-46.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-02-1</Data></Cell>
+			<Cell><Data ss:Type="Number">17395</Data></Cell>
+			<Cell><Data ss:Type="Number">25230</Data></Cell>
+			<Cell><Data ss:Type="Number">-31.05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-03-1</Data></Cell>
+			<Cell><Data ss:Type="Number">27078</Data></Cell>
+			<Cell><Data ss:Type="Number">17395</Data></Cell>
+			<Cell><Data ss:Type="Number">55.67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-04-1</Data></Cell>
+			<Cell><Data ss:Type="Number">25465</Data></Cell>
+			<Cell><Data ss:Type="Number">27078</Data></Cell>
+			<Cell><Data ss:Type="Number">-5.96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-05-1</Data></Cell>
+			<Cell><Data ss:Type="Number">17871</Data></Cell>
+			<Cell><Data ss:Type="Number">25465</Data></Cell>
+			<Cell><Data ss:Type="Number">-29.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-06-1</Data></Cell>
+			<Cell><Data ss:Type="Number">30857</Data></Cell>
+			<Cell><Data ss:Type="Number">17871</Data></Cell>
+			<Cell><Data ss:Type="Number">72.67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-07-1</Data></Cell>
+			<Cell><Data ss:Type="Number">27304</Data></Cell>
+			<Cell><Data ss:Type="Number">30857</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-08-1</Data></Cell>
+			<Cell><Data ss:Type="Number">40777</Data></Cell>
+			<Cell><Data ss:Type="Number">27304</Data></Cell>
+			<Cell><Data ss:Type="Number">49.34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-09-1</Data></Cell>
+			<Cell><Data ss:Type="Number">29169</Data></Cell>
+			<Cell><Data ss:Type="Number">40777</Data></Cell>
+			<Cell><Data ss:Type="Number">-28.47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-10-1</Data></Cell>
+			<Cell><Data ss:Type="Number">36435</Data></Cell>
+			<Cell><Data ss:Type="Number">29169</Data></Cell>
+			<Cell><Data ss:Type="Number">24.91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-11-1</Data></Cell>
+			<Cell><Data ss:Type="Number">50821</Data></Cell>
+			<Cell><Data ss:Type="Number">36435</Data></Cell>
+			<Cell><Data ss:Type="Number">39.48</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2017-12-1</Data></Cell>
+			<Cell><Data ss:Type="Number">30699</Data></Cell>
+			<Cell><Data ss:Type="Number">50821</Data></Cell>
+			<Cell><Data ss:Type="Number">-39.59</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

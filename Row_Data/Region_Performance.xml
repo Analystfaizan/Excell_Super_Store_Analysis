@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Region</Data></Cell>
+			<Cell><Data ss:Type="String">Unique_Customer</Data></Cell>
+			<Cell><Data ss:Type="String">Revenue</Data></Cell>
+			<Cell><Data ss:Type="String">Avg_orders</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">WEST</Data></Cell>
+			<Cell><Data ss:Type="String">681</Data></Cell>
+			<Cell><Data ss:Type="Number">333086</Data></Cell>
+			<Cell><Data ss:Type="Number">211.0811</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EAST</Data></Cell>
+			<Cell><Data ss:Type="String">670</Data></Cell>
+			<Cell><Data ss:Type="Number">331302</Data></Cell>
+			<Cell><Data ss:Type="Number">240.7718</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CENTRAL</Data></Cell>
+			<Cell><Data ss:Type="String">626</Data></Cell>
+			<Cell><Data ss:Type="Number">248248</Data></Cell>
+			<Cell><Data ss:Type="Number">213.8226</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
