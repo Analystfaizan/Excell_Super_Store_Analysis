@@ -111,7 +111,7 @@ Building these with a combination of MySQL aggregation and Excel formulas (rathe
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](https://github.com/Analystfaizan/Excell_Super_Store_Analysis/blob/92b8fbeff1a97971c5aa13b92122a13f58e33f8c/Screenshots/Screenshot%202026-06-29%20112419.png)
+![Dashboard](https://github.com/Analystfaizan/Excell_Super_Store_Analysis/blob/cd55533316c01ddb7b92451e657076fb779ed561/Screenshots/Executive%20Summary.png)
 
 
 ```
