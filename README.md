@@ -154,7 +154,6 @@ b2c-sales-dashboard-superstore/
 └── README.md                                # Project documentation
 ```
 
-*(Update this structure to match your actual repo layout.)*
 
 ---
 
